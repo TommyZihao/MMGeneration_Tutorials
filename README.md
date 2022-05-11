@@ -1,10 +1,14 @@
 # MMGeneration 代码教程
 
-代码运行[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1)，在云GPU中直接按顺序逐行运行本notebook的所有代码块即可
+## 环境配置须知（必看）
 
-云GPU环境参数：GPU RTX 3060、CUDA v11.2
+推荐代码运行环境：[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1)
 
-MMGeneration主页：https://github.com/open-mmlab/mmgeneration
+云GPU环境参数：Ubuntu、GPU RTX 3060、CUDA V11.2
+
+## 扩展链接
+
+MMGeneration主页（点star的据说都发顶会了）：https://github.com/open-mmlab/mmgeneration
 
 OpenMMLab主页：https://openmmlab.com/
 
